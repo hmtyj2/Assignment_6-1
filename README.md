@@ -15,3 +15,5 @@ Several modifications were made to make the existing incorrect code (intentional
 > ### Inside of [train_file_list_to_json' function](https://github.com/hmtyj2/Assignment_6-1/blob/9e86c3ef4647289ec497255a68d0dc110680f3d6/main.py#L8)
 >> <img src='./figures/assignment6_modifications.png'>
 
+## Results
+Run this code will create [concated.json](./concated.json) file which will be used to train translation model.
